@@ -1,6 +1,5 @@
-
 var spinner = new Spinner({color: '#ddd'});
-var firebaseRef = 'https://firepano.firebaseio.com/';
+var firebaseRef = 'https://touch-point.firebaseio.com/';
 
 function handleFileSelect(evt) {
   var f = evt.target.files[0];
